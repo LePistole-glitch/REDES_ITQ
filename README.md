@@ -3,5 +3,5 @@ Evidencias de estudio para caso de Estudio 2023-1 de la clase de Redes de Comput
 
 
 Integrantes:
-Jepthe Hernandez Flores
-Jesus Chavez Arias
+1.- Jepthe Hernandez Flores
+2.- Jesus Chavez Arias
